@@ -1,0 +1,16 @@
+/**
+* Stylesheet for Admin Panel
+*/
+
+.b2uc-meta-control{
+	position: relative;
+	width: 100%;
+}
+
+.b2uc-meta-control img{
+	float: right;
+}
+
+.b2uc-clearfix{
+	clear: both;
+}
